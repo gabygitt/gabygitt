@@ -1,10 +1,11 @@
-<h2 align="left">Olá 👋 Meu nome é Gabriella Inocêncio Rodrigues de Almeida! Seja bem vindo(a) ao meu perfil.</h2>
+<h2 align="left">Olá 👋! Meu nome é Gabriella Inocêncio Rodrigues de Almeida e sou estudante de Desenvolvimento Full Stack e Graduanda em Engenharia Elétrica!</h2>
 
 ###
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl6ZnlscmZ4M201M3VsajR6bjh1YWV4dXVyaXNoOGZ2bmVlNDZkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
+
 <h3 align="left">Sou estudante de Desenvolvimento Full Stack e graduanda em Engenharia Elétrica pela Universidade Federal de Campina Grande (UFCG). Tenho grande interesse por tecnologia, programação e resolução de problemas, unindo conhecimentos de software e fundamentos de engenharia para desenvolver soluções eficientes e bem estruturadas.</h3>
 
 <h3 align="left"> Atualmente, venho aprofundando meus estudos em desenvolvimento web, trabalhando com front-end e back-end, além de explorar conceitos de banco de dados, versionamento com Git e boas práticas de código. Busco constantemente evoluir minhas habilidades técnicas, participar de projetos práticos e construir aplicações que gerem impacto real.</h3>
@@ -32,12 +33,15 @@
 ###
 
 <div align="left">
-  <a href="gabriellainocencio22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=gabriellainocencio22&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/gabriella-inoc%C3%AAncio-672b7936a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
