@@ -8,7 +8,7 @@
 
 <h3 align="left">Sou estudante de Desenvolvimento Full Stack e graduanda em Engenharia Elétrica pela Universidade Federal de Campina Grande (UFCG). Tenho grande interesse por tecnologia, programação e resolução de problemas, unindo conhecimentos de software e fundamentos de engenharia para desenvolver soluções eficientes e bem estruturadas.</h3>
 
-<h3 align="left"> Atualmente, venho aprofundando meus estudos em desenvolvimento web, trabalhando com front-end e back-end, além de explorar conceitos de banco de dados, versionamento com Git e boas práticas de código. Busco constantemente evoluir minhas habilidades técnicas, participar de projetos práticos e construir aplicações que gerem impacto real.</h3>
+<h3 align="left"> Atualmente, venho aprofundando meus estudos em desenvolvimento web, trabalhando com front-end e back-end, além de explorar conceitos de banco de dados, versionamento com Git e boas práticas de código. Busco constantemente evoluir minhas habilidades técnicas e minhas soft skills, participar de projetos práticos e construir aplicações que gerem impacto real.</h3>
 
 <h3 align="left"> Este perfil reúne meus projetos e estudos, refletindo minha jornada de aprendizado contínuo na área de tecnologia. 🚀</h3>
 
