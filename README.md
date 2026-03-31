@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋 Meu nome é Gabriella Inocêncio Rodrigues de Almeida! Seja bem vindo(a) ao meu perfil.</h2>
+<h2 align="left">Olá 👋 Sou Gabriella Inocêncio e seja bem vindo(a) ao meu perfil.</h2>
 
 ###
 
